@@ -1,4 +1,3 @@
-![MasterHead](https://thumbs.gfycat.com/OptimisticSnivelingAmericanshorthair-size_restricted.gif)]()
 <h1 align="center">Hi 👋, I'm Radek Švancar</h1>
 <h3 align="center">A passionate frontend developer from Czech Republic</h3>
 <img align="right" alt="Vagabond" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
